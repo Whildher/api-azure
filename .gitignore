@@ -1,6 +1,6 @@
 .env
 
-node_modules
+/node_modules
 src/config.js
 img
 src/settings/appsettings.json
